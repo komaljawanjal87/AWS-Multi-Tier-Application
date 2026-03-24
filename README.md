@@ -1,5 +1,4 @@
-<img width="1339" height="940" alt="image" src="https://github.com/user-attachments/assets/3c620b9b-91e0-4fc5-8553-d56427afcaf9" /># Deploy a Multi-Tier Application using VPC, EC2, RDS and Auto Scaling
-
+<img src="https://github.com/user-attachments/assets/3c620b9b-91e0-4fc5-8553-d56427afcaf9" width="800" height="500">
 ## Project Overview
 
 In this project, I have deployed a highly available and scalable multi-tier application using AWS. The architecture includes a Virtual Private Cloud (VPC), Application Load Balancer, Auto Scaling Groups, EC2 instances, NAT Gateway, Bastion Host, and RDS database.
