@@ -1,4 +1,6 @@
-<img src="https://github.com/user-attachments/assets/3c620b9b-91e0-4fc5-8553-d56427afcaf9" width="800" height="500">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3c620b9b-91e0-4fc5-8553-d56427afcaf9" width="800">
+</p>
 
 ## Project Overview
 
