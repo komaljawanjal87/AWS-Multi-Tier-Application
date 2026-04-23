@@ -174,3 +174,6 @@ This project demonstrates a real-world cloud architecture that ensures scalabili
 ## Note
 
 This project was implemented using AWS Free Tier. Resources were terminated after testing to avoid additional charges.
+
+## Author
+Komal Jawanjal
